@@ -34,4 +34,9 @@ pip install torch numpy matplotlib scikit-learn scipy
 - Four process types separate geometrically as context grows (confirmed)  
 - CW/CCW separation precedes alpha separation (confirmed)
 - Model trained on CW only maps unseen CCW onto the same manifold (inter/intra ratio 1.005)
+
 - Permutation test: real probe accuracy 0.863, null mean 0.503, p=0.0000
+
+## Belief Crystallization
+
+![Belief Crystallization](figures/belief_crystallization.gif)
